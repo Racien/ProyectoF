@@ -1,1 +1,14 @@
 
+
+
+Se evidencia que al realizar la prueba testing el método principal falla al traer la figura correspondiente que es la L y en java.lang
+
+Se deberá ingresar al repositorio proyecto F para verificar las pruebas unitarias.
+
+ 
+
+Se procede a realizar la integración entre el web service del tablero y nuestro programa por medio de un web service client. Antes de ello se debe cambiar del programa los parámetros de entrada y la forma como se asginan debido que el tablero los requiere de esa manera para poder ser consumidos y ejecutados.
+ 	
+ 
+Se puede concluir que nos falta preparación en el tema, entendimiento y adaptabilidad a los API, no obstante hemos aprendido a crear web servirce los diferentes métodos de pruebas y las conexiones que deben de poseer.
+Un agradecimiento a nuestro youtuber englinx, estaremos esperando más tutoriales 3.2
