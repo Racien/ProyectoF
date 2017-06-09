@@ -12,3 +12,21 @@ Se procede a realizar la integración entre el web service del tablero y nuestro
  
 Se puede concluir que nos falta preparación en el tema, entendimiento y adaptabilidad a los API, no obstante hemos aprendido a crear web servirce los diferentes métodos de pruebas y las conexiones que deben de poseer.
 Un agradecimiento a nuestro youtuber englinx, estaremos esperando más tutoriales 3.2
+
+
+JAVADOC
+
+El javadoc fue subido con el proyecto al repositorio y se puede evidenciar el carpeta dist del proyecto.
+
+
+INTEGRACIÓN FIGURA-TABLERO
+
+Tuvimos ciertos inconvenientes, no fue posible crear WS client para llamar la clase tablero, ya que no queria integrar las clases
+del tablero con la clase de la figura de nuestro proycto.
+
+AL momento de compilar la clase tablero integrandole la matriz de nuestra figura en el código no nos quizo mostrar la figura L funcionando
+el tablero seguia mostrando la figura J que tiene el código por defecto.
+
+Se realizarón varias pruebas en la integración con las demás clases del proyecto tablero, pero no fue posible establecer la comunicación
+para llamar nuestra clase desde el proyecto tablero, vió por un momento que al compilar mostrabas muhas exepciones en el código de 
+integración.
